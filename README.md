@@ -1,1 +1,1 @@
-# ProgmeistarsJava2026
+# ProgmeistarsJava2026 - notifications
